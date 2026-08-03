@@ -17,18 +17,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<!--
-  This animation eats your contribution graph, one commit at a time.
-  Setup required — it's one small GitHub Action away.
-  See "Setting up the snake" near the bottom of this README.
--->
-<img src="https://raw.githubusercontent.com/PARIKSHIT-Shah/PARIKSHIT-Shah/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-
-</div>
 
 ---
 
@@ -49,7 +38,7 @@ parikshit:
   fun_fact: "I solve bugs the same way I solve life — patience, persistence, and too much coffee ☕"
 ```
 
-- 📄 View my experience: **[Resume / Drive Link](https://drive.google.com/file/d/1jZVhyfr_fc3kPettavuFElspe_wpMN1P/view?usp=drivesdk)**
+- 📄 View my experience: **[Resume](https://drive.google.com/file/d/1rq6BfD9TkR9UnliaMUDfbsbZTPhwS7JW/view?usp=drivesdk)**
 - 📧 Reach me at: **kingisone1212@gmail.com**
 - 😄 Pronouns: **He / Him**
 
@@ -74,9 +63,7 @@ console.log(0.1 + 0.2 === 0.3);
 <summary>Reveal the answer</summary>
 
 ```
-"1,2,34,5,6"   // arrays get coerced to strings and concatenated
-"number"        // NaN is, ironically, of type "number"
-false           // floating point precision strikes again
+
 ```
 
 If you got all three right first try, we should probably be talking about a job. 😄
@@ -202,7 +189,6 @@ If you got all three right first try, we should probably be talking about a job.
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
