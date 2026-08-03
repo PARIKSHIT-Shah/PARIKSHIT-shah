@@ -95,26 +95,7 @@ I'm a **3rd Year B.Tech CSE (AI/ML) student** at Techno India University with a 
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PARIKSHIT-Shah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PARIKSHIT-Shah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
 
 [![Parikshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
