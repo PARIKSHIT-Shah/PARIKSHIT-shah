@@ -25,17 +25,17 @@
 
 > *"A hardworker who loves solving problems, learning new things, and building projects that actually matter."*
 
-I'm a **3rd Year B.Tech CSE (AI/ML) student** at Techno India University with a passion for building full-stack applications and AI/ML models that solve real-world problems. I believe in continuous learning — whether it's sharpening my DSA skills, exploring new frameworks, or contributing to meaningful projects.
+I'm a **4rd Year B.Tech CSE (AI/ML) student** at Techno India University with a passion for building full-stack applications and AI/ML models that solve real-world problems. I believe in continuous learning — whether it's sharpening my DSA skills, exploring new frameworks, or contributing to meaningful projects.
 
 ```yaml
 parikshit:
   role: "B.Tech CSE (AI/ML) Student"
   university: "Techno India University"
-  semester: 6
-  currently_learning: ["Angular", "Next.js", "Vue.js"]
+  semester: 7
+  currently_learning: ["Angular", "Next.js", "Vue.js", "llms" "Rag"]
   currently_strengthening: ["DSA", "System Design", "Full Stack Dev"]
-  looking_for: "A product-based company to build meaningful, scalable software"
-  fun_fact: "I solve bugs the same way I solve life — patience, persistence, and too much coffee ☕"
+  looking_for: "A company to build meaningful, scalable software"
+  fun_fact: "I solve bugs the same way I solve the problems in life — patience, persistence, and too much coffee ☕"
 ```
 
 - 📄 View my experience: **[Resume](https://drive.google.com/file/d/1rq6BfD9TkR9UnliaMUDfbsbZTPhwS7JW/view?usp=drivesdk)**
@@ -182,10 +182,8 @@ If you got all three right first try, we should probably be talking about a job.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PARIKSHIT-Shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARIKSHIT-Shah&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
 <br/>
 
