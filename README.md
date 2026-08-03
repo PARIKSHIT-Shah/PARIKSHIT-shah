@@ -35,8 +35,9 @@ I'm a **3rd Year B.Tech CSE (AI/ML) student** at Techno India University with a 
 
 | Degree | Institution | Year | Status |
 |--------|------------|------|--------|
-| 🎓 B.Tech — Computer Science & Engineering (AI/ML) | Techno India University, Kolkata | 2023 – 2027 | 3rd Year, 6th Sem |
+| 🎓 B.Tech — Computer Science & Engineering (AI/ML) | Techno India University, Kolkata | 2023 – 2027 | 4rd Year, 7th Sem |
 | 📚 Higher Secondary (Class XII) | Bishop George Mission School | 2021 – 2023 | Completed |
+| 📚 Secondary School (Class X)   | ST Augustine Day school      | till – 2021 | Completed |
 
 ---
 
