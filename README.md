@@ -122,14 +122,6 @@ I'm a **3rd Year B.Tech CSE (AI/ML) student** at Techno India University with a 
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/PARIKSHIT-Shah/PARIKSHIT-Shah/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/PARIKSHIT-Shah/PARIKSHIT-Shah/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
 
 ---
 
