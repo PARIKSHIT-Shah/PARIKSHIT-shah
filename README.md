@@ -28,7 +28,7 @@
 I'm a **4rd Year B.Tech CSE (AI/ML) student** at Techno India University with a passion for building full-stack applications and AI/ML models that solve real-world problems. I believe in continuous learning — whether it's sharpening my DSA skills, exploring new frameworks, or contributing to meaningful projects.
 
 ```yaml
-parikshit:
+Parikshit Shah :
   role: "B.Tech CSE (AI/ML) Student"
   university: "Techno India University"
   semester: 7
