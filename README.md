@@ -160,7 +160,7 @@ If you got all three right first try, we should probably be talking about a job.
 
 *A RAG-powered MERN app that lets you ask plain-language questions about any codebase — built with local embeddings, MongoDB vector search, and Groq's Llama 3.3.*
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-with-your-codebase-fz2b.vercel.app/)
+[![Live-Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-with-your-codebase-fz2b.vercel.app/)
 
 </div>
 
