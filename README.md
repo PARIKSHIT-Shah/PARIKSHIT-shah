@@ -25,7 +25,7 @@
 
 > *"A hardworker who loves solving problems, learning new things, and building projects that actually matter."*
 
-I'm a **4rd Year B.Tech CSE (AI/ML) student** at Techno India University with a passion for building full-stack applications and AI/ML models that solve real-world problems. I believe in continuous learning — whether it's sharpening my DSA skills, exploring new frameworks, or contributing to meaningful projects.
+I'm a **4rd Year B.Tech CSE (AI/ML) student** at Techno India University with a passion for building full-stack applications and AI/ML models that solve real-world problems. I believe in continuous learning — whether it's sharpening my DSA skills, exploring new frameworks, or contributing to meaningful projects...
 
 ```yaml
 Parikshit Shah :
