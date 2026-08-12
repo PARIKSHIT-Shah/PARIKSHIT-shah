@@ -112,7 +112,7 @@ If you got all three right first try, we should probably be talking about a job.
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Databases</b></summary>
+<summary><b>⚙️ Backend & Databases.</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -206,7 +206,7 @@ If you got all three right first try, we should probably be talking about a job.
 
 ## 🎯 Career Objective
 
-> To secure a meaningful role at a **product-based company** where I can utilise my skills, knowledge, and dedication to build scalable solutions that solve real-world problems — and grow continuously as a developer alongside a talented and driven team.
+> To secure a meaningful role at a **product-based company** where I can utilise my skills, knowledge, and dedication to build scalable solutions that solve real-world problems — and grow continuously as a developer alongside a talented and driven team..
 
 ---
 
