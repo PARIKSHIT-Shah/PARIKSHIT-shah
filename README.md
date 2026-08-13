@@ -184,9 +184,7 @@ If you got all three right first try, we should probably be talking about a job.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARIKSHIT-Shah&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165"/>
 
-
 <br/>
-
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
