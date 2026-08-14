@@ -46,7 +46,6 @@ Parikshit Shah :
 
 <details>
 <summary><b>Click to reveal a quick JS trivia round — no peeking before you guess! 👀</b></summary>
-
 <br/>
 
 **What does this print?**
@@ -56,7 +55,6 @@ console.log([1, 2, 3] + [4, 5, 6]);
 console.log(typeof NaN);
 console.log(0.1 + 0.2 === 0.3);
 ```
-
 <details>
 <summary>Reveal the answer</summary>
 
@@ -98,6 +96,7 @@ If you got all three right first try, we should probably be talking about a job.
 <details open>
 <summary><b>🌐 Web Development</b></summary>
 <br/>
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
