@@ -181,6 +181,11 @@ If you got all three right first try, we should probably be talking about a job.
 
 <br/>
 
+[![Parikshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARIKSHIT-Shah&show_icons=true&theme=radical)](https://github.com/PARIKSHIT-Shah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=radical)](https://github.com/PARIKSHIT-Shah)
+
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
 </div>
@@ -226,6 +231,3 @@ If you got all three right first try, we should probably be talking about a job.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
