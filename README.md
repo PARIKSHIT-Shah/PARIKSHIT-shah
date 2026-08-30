@@ -180,13 +180,13 @@ If you got all three right first try, we should probably be talking about a job.
 <div align="center">
 
 <br/>
-
-[![Parikshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARIKSHIT-Shah&show_icons=true&theme=radical)](https://github.com/PARIKSHIT-Shah)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=radical)](https://github.com/PARIKSHIT-Shah)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PARIKSHIT-Shah-collab&theme=tokyonight&hide_border=true" alt="GitHub streak stats" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah-collab&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+
+<br/>
 
 </div>
 
