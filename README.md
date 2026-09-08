@@ -152,7 +152,11 @@ If you got all three right first try, we should probably be talking about a job.
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Fundamentals-22c55e?style=for-the-badge)
 
 </details>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,react,nextjs,vue,angular,ts,nodejs,express,django,mongodb,mysql,aws,git,github,vercel,linux" />
+
+</div>
 ---
 
 ## 🚀 Featured Project
