@@ -179,8 +179,8 @@ If you got all three right first try, we should probably be talking about a job.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PARIKSHIT-Shah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-v5r7.vercel.app/api?username=PARIKSHIT-Shah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-v5r7.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <br/>
 
