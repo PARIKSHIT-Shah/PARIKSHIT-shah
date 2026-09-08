@@ -205,8 +205,7 @@ If you got all three right first try, we should probably be talking about a job.
 <img src="https://github-activity-graph-silk.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
 <br/>
-</div>', add a new heading and the trophy image: ## 🏆 GitHub Trophies <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/> </div>
-
+ ## 🏆 GitHub Trophies <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/> </div>
 ---
 
 ## 💬 Random Dev Wisdom
