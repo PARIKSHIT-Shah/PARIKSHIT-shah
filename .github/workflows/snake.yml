@@ -10,13 +10,11 @@ on:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: output
       - uses: Platane/snk@v3
         id: snake-gif
         with:
