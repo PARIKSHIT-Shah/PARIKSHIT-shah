@@ -188,7 +188,7 @@ If you got all three right first try, we should probably be talking about a job.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+<img src="https://github-activity-graph-silk.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 
 <br/>
 
