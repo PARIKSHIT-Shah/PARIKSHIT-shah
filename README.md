@@ -218,6 +218,12 @@ If you got all three right first try, we should probably be talking about a job.
 
 ---
 
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 ## 🎯 Career Objective
 
 > To secure a meaningful role at a **product-based company** where I can utilise my skills, knowledge, and dedication to build scalable solutions that solve real-world problems — and grow continuously as a developer alongside a talented and driven team..
