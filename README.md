@@ -209,11 +209,7 @@ If you got all three right first try, we should probably be talking about a job.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-trophy.parikshit-shah.deno.net/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
+ <img src="https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 ---
 
 ## 💬 Random Dev Wisdom
