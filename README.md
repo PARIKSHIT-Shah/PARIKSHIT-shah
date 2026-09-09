@@ -211,6 +211,7 @@ If you got all three right first try, we should probably be talking about a job.
 
  <img src="https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 ---
+<br/>
 ## ⏱️ Weekly Coding Activity <!--START_SECTION:waka-->
 
 ```txt
