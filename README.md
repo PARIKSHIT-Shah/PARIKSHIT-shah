@@ -221,6 +221,7 @@ If you got all three right first try, we should probably be talking about a job.
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a RAG-Powered Chatbot That Lets You Talk to Your Codebase](https://dev.to/parikshitshah/building-a-rag-powered-chatbot-that-lets-you-talk-to-your-codebase-4jf0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
