@@ -218,7 +218,11 @@ If you got all three right first try, we should probably be talking about a job.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 mins                █████████████████████████   100.00 %
+Other        12 mins               ████████░░░░░░░░░░░░░░░░░   31.56 %
+Markdown     8 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
+Bash         7 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+Text         5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Python       3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
 ```
 
 <!--END_SECTION:waka-->
