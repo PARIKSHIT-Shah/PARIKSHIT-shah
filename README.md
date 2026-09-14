@@ -208,8 +208,7 @@ If you got all three right first try, we should probably be talking about a job.
 </div>
 
 ## 🏆 GitHub Trophies
-
- <img src="https://github-profile-trophy.vercel.app/?username=PARIKSHIT-Shah&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+![](https://github-trophies.vercel.app/?username=PARIKSHIT-Shah&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 ---
 <br/>
 </div>
