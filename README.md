@@ -226,6 +226,13 @@ Text         5 mins                █▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+<br/>
+
+## 💻 LeetCode Progress
+
+Solving problems daily and auto-syncing to GitHub via [LeetHub](https://github.com/PARIKSHIT-Shah/leetcode-solutions).
+
+<br/>
 ## 💬 Random Dev Wisdom
 
 <div align="center">
