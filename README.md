@@ -197,7 +197,10 @@ If you got all three right first try, we should probably be talking about a job.
 <img src="https://github-readme-stats-v5r7.vercel.app/api/top-langs/?username=PARIKSHIT-Shah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PARIKSHIT-Shah&theme=transparent&border_radius=4.8&timezone=Asia/Kolkata)](https://git.io/streak-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PARIKSHIT-Shah&theme=transparent&border_radius=4.8)](https://git.io/streak-stats)
+
 <br/>
 
 <img src="https://github-activity-graph-silk.vercel.app/graph?username=PARIKSHIT-Shah&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
