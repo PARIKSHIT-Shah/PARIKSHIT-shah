@@ -159,7 +159,7 @@ If you got all three right first try, we should probably be talking about a job.
 <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,react,nextjs,vue,angular,ts,nodejs,express,django,mongodb,mysql,aws,git,github,vercel,linux" />
 
 </div>
----
+
 
 ## 🚀 Featured Project
 
