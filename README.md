@@ -165,7 +165,7 @@ If you got all three right first try, we should probably be talking about a job.
 
 <div align="center">
 
-<a href="https://github.com/PARIKSHIT-Shah/Chat-with-your-codebase">
+<a href="https://chat-with-your-codebase-fz2b-8yoybc5kl-parikshit-shahs-projects.vercel.app/">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PARIKSHIT-Shah&repo=Chat-with-your-codebase&theme=tokyonight&hide_border=true" alt="Chat with your codebase repo card" />
 </a>
 
