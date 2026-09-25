@@ -218,11 +218,11 @@ If you got all three right first try, we should probably be talking about a job.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        1 hr 30 mins          ████████████▒░░░░░░░░░░░░   49.83 %
-Java              47 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-Bash              23 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-JSON              7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-HTML              5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JavaScript        1 hr 22 mins          ████████████░░░░░░░░░░░░░   48.25 %
+Java              47 mins               ███████░░░░░░░░░░░░░░░░░░   27.92 %
+Bash              22 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Markdown          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+JSON              4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
