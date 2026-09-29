@@ -218,8 +218,8 @@ If you got all three right first try, we should probably be talking about a job.
 <!--START_SECTION:waka-->
 
 ```txt
-Java       39 mins               ████████████████████▓░░░░   82.50 %
-Markdown   8 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Java       23 mins               ██████████████████▒░░░░░░   73.71 %
+Markdown   8 mins                ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
 ```
 
 <!--END_SECTION:waka-->
