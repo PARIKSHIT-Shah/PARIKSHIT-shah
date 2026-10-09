@@ -218,8 +218,7 @@ If you got all three right first try, we should probably be talking about a job.
 <!--START_SECTION:waka-->
 
 ```txt
-Java     47 mins               ████████████████████████▓   99.06 %
-Python   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Java   16 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
