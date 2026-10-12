@@ -218,7 +218,7 @@ If you got all three right first try, we should probably be talking about a job.
 <!--START_SECTION:waka-->
 
 ```txt
-Java   7 mins                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
