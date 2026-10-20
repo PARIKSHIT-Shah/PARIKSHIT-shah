@@ -218,11 +218,7 @@ If you got all three right first try, we should probably be talking about a job.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   19 mins               █████████████████░░░░░░░░   67.64 %
-Git Config   6 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-HTML         2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Markdown     0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
